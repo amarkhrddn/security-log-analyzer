@@ -1,0 +1,21 @@
+{
+    "total_logs": 9,
+    "duplicate_count": 1,
+    "failed_logins": 5,
+    "unique_ip_count": 5,
+    "ip_event_counts": {
+        "192.168.1.10": 2,
+        "192.168.1.15": 3,
+        "192.168.1.20": 1,
+        "10.0.0.8": 2,
+        "172.16.0.5": 1
+    },
+    "level_summary": {
+        "LOW": 4,
+        "MEDIUM": 2,
+        "HIGH": 3
+    },
+    "suspicious_ips": {
+        "192.168.1.15": 3
+    }
+}
